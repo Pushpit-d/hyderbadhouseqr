@@ -14,8 +14,9 @@ function App() {
         <p style={styles.subtitle}>Biryani Palace</p>
 
         {/* Buttons */}
-        <a href="https://www.canva.com/design/DAG_Yg6bTts/SCiQeiJtE998sUG9SiKMTg/view?utm_content=DAG_Yg6bTts&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8f4b8dbfd4" style={styles.primaryButton}>
+        <a href="https://www.canva.com/design/DAG_Yg6bTts/SCiQeiJtE998sUG9SiKMTg/view?utm_content=DAG_Yg6bTts&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8f4b8dbfd4#2" style={styles.primaryButton}>
           View Menu
+          
         </a>
 
         <a
